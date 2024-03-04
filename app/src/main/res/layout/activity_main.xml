@@ -11,8 +11,17 @@
         android:id="@+id/toolbr"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/orange"
-        />
+        android:background="@color/orange">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Food Palace"
+            android:textSize="30dp"
+            android:fontFamily="@font/jelle"
+            android:textColor="@color/white"
+            android:layout_gravity="center"
+            />
+    </Toolbar>
 
     <androidx.cardview.widget.CardView
         android:id="@+id/crd"
@@ -50,9 +59,15 @@
     </androidx.cardview.widget.CardView>
 
     <ListView
+        android:id="@+id/listview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
         android:layout_below="@id/crd"
-        />
+        android:layout_marginTop="12dp"
+        android:scrollbars="vertical"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="10dp"
+        tools:listitem="@layout/list_item"/>
 </RelativeLayout>

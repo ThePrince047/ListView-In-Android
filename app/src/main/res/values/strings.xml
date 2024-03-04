@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">Journal1</string>
+    <string name="app_name">Food Palace</string>
+
+    <string name="donut">Noodles</string>
+    <string name="pizza">Pizza</string>
+    <string name="hotdog">Burger</string>
+    <string name="fries">French Fries</string>
+    <string name="taco">Cake</string>
+
+    <string name="donutdesc">Donuts, delightful treats adored worldwide, beckon with their golden-brown exteriors and soft, pillowy centers. Whether glazed with a sugary sheen, filled with decadent cream, or dusted with cinnamon, each bite offers a heavenly combination of sweetness and indulgence. From the classic ring shape to whimsical creations bursting with flavors, donuts remain a beloved symbol of joy and comfort, perfect for any moment of indulgence or celebration.</string>
+    <string name="pizzadesc">Pizza, a globally cherished dish, delights with its perfect fusion of flavors and textures. From the classic Margherita with its simplicity to adventurous combinations of toppings, each slice offers a tantalizing blend of melted cheese, tangy tomato sauce, and a crispy crust, making it an enduring favorite for gatherings and solo indulgence alike.</string>
+    <string name="hotdogdesc">Hotdogs, an enduring symbol of casual dining, tantalize taste buds with their juicy sausages nestled in soft buns. Whether enjoyed at ballgames, barbecues, or street vendors, they offer a satisfying blend of savory meat and comforting carbs. Topped with an array of condiments like mustard, ketchup, relish, and onions, each bite delivers a burst of flavor, making hotdogs a beloved culinary classic that transcends borders and generations.</string>
+    <string name="friesdesc">French fries, a beloved side dish adored worldwide, offer a crispy exterior and a fluffy interior, tantalizing the taste buds with their golden perfection. Whether dunked in ketchup, slathered in mayonnaise, or paired with a variety of sauces, these fried potato delights never fail to satisfy cravings and complement a wide array of dishes, making them a cherished indulgence across cultures.</string>
+    <string name="tacodesc">Tacos, a culinary delight originating from Mexico, are cherished for their versatility and vibrant flavors. With a soft or crispy shell cradling a variety of fillings such as seasoned meats, fresh vegetables, and zesty salsa, each taco offers a symphony of textures and tastes. Whether enjoyed street-side from a food truck or at a festive gathering, tacos bring people together, igniting a shared love for their delicious simplicity and endless customization options.</string>
+
 </resources>
