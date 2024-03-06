@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Food Palace</string>
 
-    <string name="donut">Noodles</string>
+    <string name="donut">Donut</string>
     <string name="pizza">Pizza</string>
     <string name="hotdog">Burger</string>
     <string name="fries">French Fries</string>
