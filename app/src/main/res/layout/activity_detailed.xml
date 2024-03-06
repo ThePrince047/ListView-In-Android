@@ -18,19 +18,20 @@
         android:layout_gravity="center"/>
     <androidx.cardview.widget.CardView
         android:layout_width="380dp"
-        android:layout_height="200dp"
+        android:layout_height="300dp"
         android:id="@+id/cardImage"
         android:layout_marginTop="10dp"
         android:layout_gravity="center"
         >
+
         <ImageView
-            android:layout_width="200dp"
-            android:layout_height="200dp"
             android:id="@+id/detailImage"
-            android:layout_marginTop="10dp"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
             android:layout_gravity="center"
-            android:src="@drawable/pizza"
-            android:scaleType="centerCrop"/>
+            android:layout_marginTop="10dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/pizza" />
     </androidx.cardview.widget.CardView>
 
 
